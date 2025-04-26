@@ -1,0 +1,12 @@
+# dgkjhsdfkfs
+      push 1; nop; nop;
+      nop; nop ; nop #ksdjfsdhgs
+      push 0; nop; nop; #ksdjfsdhgs
+L:    add; nop; nop
+      pop; pop; pop
+E:    push 10; push 10; push 10
+      push L; nop; nop
+      nop; push E; nop
+      push 256; nop; nop
+      #push fdhgfjah; nop; nop
+      halt; halt; halt

@@ -1,0 +1,9 @@
+push 5; nop; nop
+push 4; nop; nop
+push 3; nop; nop
+push 2; nop; nop
+push 1; nop; nop
+push 0; nop; nop
+push 3; nop; nop
+rot; nop; nop
+halt; halt; halt

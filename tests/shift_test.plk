@@ -1,0 +1,8 @@
+   push 1; nop; nop
+L: push 1; nop; nop
+   shl; nop; nop
+   dup; nop; nop
+   outi; nop; nop
+   push L; nop; nop
+   push 0; nop; nop
+   jmpz; nop; nop

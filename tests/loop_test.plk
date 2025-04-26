@@ -1,0 +1,12 @@
+     push 0; nop; nop
+A1:  dup; nop; nop
+     outi; nop; nop
+     push 1;  nop; nop
+     add; nop; nop
+     dup; nop; nop
+     push 10; nop; nop
+     eq; nop; nop
+     push A1; nop; nop
+     swap; nop; nop
+     jmpz; nop; nop
+     halt; nop; nop

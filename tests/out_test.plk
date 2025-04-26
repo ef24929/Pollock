@@ -1,0 +1,5 @@
+push 65; nop; nop
+outc; nop; nop
+push 65; nop; nop
+outi; nop; nop
+halt; halt; halt

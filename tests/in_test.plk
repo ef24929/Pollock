@@ -1,0 +1,4 @@
+    ini; nop; nop
+    pusha; nop; nop
+    push 10; nop; nop
+    halt; halt; halt
